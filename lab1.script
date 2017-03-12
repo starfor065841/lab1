@@ -1,0 +1,23 @@
+命令稿啟動於 2017年03月12日 (週日) 12時40分50秒
+]0;greatblue@greatblue-VirtualBox: ~/lab1greatblue@greatblue-VirtualBox:~/lab1$ whoami; pwd
+greatblue
+/home/greatblue/lab1
+]0;greatblue@greatblue-VirtualBox: ~/lab1greatblue@greatblue-VirtualBox:~/lab1$ git config -l
+user.email=player210421@gmail.com
+user.name=starfor065841
+core.editor=vim
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/starfor065841/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+user.name=starfor065841
+]0;greatblue@greatblue-VirtualBox: ~/lab1greatblue@greatblue-VirtualBox:~/lab1$ git clone https://github [K.com/starfor065841/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;greatblue@greatblue-VirtualBox: ~/lab1greatblue@greatblue-VirtualBox:~/lab1$ exit
+
+命令稿已於 2017年03月12日 (週日) 12時42分20秒
+ 完成
